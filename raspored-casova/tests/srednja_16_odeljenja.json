@@ -1,0 +1,1761 @@
+{
+  "comment": "Gimnazija, 16 odeljenja. Jedan predmet po nastavniku. Fond do 20 časova, osim biologije (26) i geografije (24) jer je ostao po jedan nastavnik. Hemija od 2 časa je laboratorijski dvočas; od 3 časa je dvočas vežbi i jedan čas teorije. Informatika od 2 časa je dvočas vežbi. Fond po Pravilniku (ZUOV). Školski dan 5–7 časova od 1. časa. Smene se rotiraju (I i III prepodne, II i IV popodne).",
+  "school_type": "srednja",
+  "periods_per_day": 7,
+  "shift_rotation": true,
+  "classes": [
+    "I-d1",
+    "I-d2",
+    "I-p1",
+    "I-p2",
+    "II-d1",
+    "II-d2",
+    "II-p1",
+    "II-p2",
+    "III-d1",
+    "III-d2",
+    "III-p1",
+    "III-p2",
+    "IV-d1",
+    "IV-d2",
+    "IV-p1",
+    "IV-p2"
+  ],
+  "class_shifts": {
+    "I-d1": "prepodne",
+    "I-d2": "prepodne",
+    "I-p1": "prepodne",
+    "I-p2": "prepodne",
+    "II-d1": "popodne",
+    "II-d2": "popodne",
+    "II-p1": "popodne",
+    "II-p2": "popodne",
+    "III-d1": "prepodne",
+    "III-d2": "prepodne",
+    "III-p1": "prepodne",
+    "III-p2": "prepodne",
+    "IV-d1": "popodne",
+    "IV-d2": "popodne",
+    "IV-p1": "popodne",
+    "IV-p2": "popodne"
+  },
+  "teachers": [
+    {
+      "name": "Ana Kovač",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "IV-d1",
+          "subject": "Srpski",
+          "per_week": 5,
+          "max_per_day": 2
+        },
+        {
+          "class": "I-d1",
+          "subject": "Srpski",
+          "per_week": 4,
+          "max_per_day": 2
+        },
+        {
+          "class": "I-p2",
+          "subject": "Srpski",
+          "per_week": 4,
+          "max_per_day": 2
+        },
+        {
+          "class": "II-p2",
+          "subject": "Srpski",
+          "per_week": 3,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Marko Simić",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "III-d1",
+          "subject": "Srpski",
+          "per_week": 5,
+          "max_per_day": 2
+        },
+        {
+          "class": "IV-p1",
+          "subject": "Srpski",
+          "per_week": 4,
+          "max_per_day": 2
+        },
+        {
+          "class": "II-d1",
+          "subject": "Srpski",
+          "per_week": 4,
+          "max_per_day": 2
+        },
+        {
+          "class": "III-p2",
+          "subject": "Srpski",
+          "per_week": 3,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Jelena Ristić",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "IV-d2",
+          "subject": "Srpski",
+          "per_week": 5,
+          "max_per_day": 2
+        },
+        {
+          "class": "I-p1",
+          "subject": "Srpski",
+          "per_week": 4,
+          "max_per_day": 2
+        },
+        {
+          "class": "I-d2",
+          "subject": "Srpski",
+          "per_week": 4,
+          "max_per_day": 2
+        },
+        {
+          "class": "II-p1",
+          "subject": "Srpski",
+          "per_week": 3,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Stefan Popović",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "III-d2",
+          "subject": "Srpski",
+          "per_week": 5,
+          "max_per_day": 2
+        },
+        {
+          "class": "II-d2",
+          "subject": "Srpski",
+          "per_week": 4,
+          "max_per_day": 2
+        },
+        {
+          "class": "IV-p2",
+          "subject": "Srpski",
+          "per_week": 4,
+          "max_per_day": 2
+        },
+        {
+          "class": "III-p1",
+          "subject": "Srpski",
+          "per_week": 3,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Milica Jovanović",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "I-d1",
+          "subject": "Građansko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d1",
+          "subject": "Građansko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d2",
+          "subject": "Građansko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d2",
+          "subject": "Građansko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p1",
+          "subject": "Građansko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p1",
+          "subject": "Građansko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p1",
+          "subject": "Građansko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-p1",
+          "subject": "Građansko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d1",
+          "subject": "Građansko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d2",
+          "subject": "Građansko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p2",
+          "subject": "Građansko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p2",
+          "subject": "Građansko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p2",
+          "subject": "Građansko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-p2",
+          "subject": "Građansko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-d1",
+          "subject": "Građansko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-d2",
+          "subject": "Građansko",
+          "per_week": 1,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Nikola Đorđević",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "IV-p1",
+          "subject": "Matematika",
+          "per_week": 5,
+          "max_per_day": 2
+        },
+        {
+          "class": "I-d1",
+          "subject": "Matematika",
+          "per_week": 4,
+          "max_per_day": 2
+        },
+        {
+          "class": "I-d2",
+          "subject": "Matematika",
+          "per_week": 4,
+          "max_per_day": 2
+        },
+        {
+          "class": "II-d2",
+          "subject": "Matematika",
+          "per_week": 3,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Ivana Pavlović",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "III-p2",
+          "subject": "Matematika",
+          "per_week": 5,
+          "max_per_day": 2
+        },
+        {
+          "class": "II-p1",
+          "subject": "Matematika",
+          "per_week": 5,
+          "max_per_day": 2
+        },
+        {
+          "class": "III-d1",
+          "subject": "Matematika",
+          "per_week": 3,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-d1",
+          "subject": "Matematika",
+          "per_week": 3,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Luka Obradović",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "II-p2",
+          "subject": "Matematika",
+          "per_week": 5,
+          "max_per_day": 2
+        },
+        {
+          "class": "I-p2",
+          "subject": "Matematika",
+          "per_week": 4,
+          "max_per_day": 2
+        },
+        {
+          "class": "I-p1",
+          "subject": "Matematika",
+          "per_week": 4,
+          "max_per_day": 2
+        },
+        {
+          "class": "II-d1",
+          "subject": "Matematika",
+          "per_week": 3,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Marija Stojanović",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "III-p1",
+          "subject": "Matematika",
+          "per_week": 5,
+          "max_per_day": 2
+        },
+        {
+          "class": "IV-p2",
+          "subject": "Matematika",
+          "per_week": 5,
+          "max_per_day": 2
+        },
+        {
+          "class": "IV-d2",
+          "subject": "Matematika",
+          "per_week": 3,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d2",
+          "subject": "Matematika",
+          "per_week": 3,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Petar Lazić",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "II-p2",
+          "subject": "Informatika",
+          "per_week": 2,
+          "max_per_day": 2
+        },
+        {
+          "class": "II-d1",
+          "subject": "Informatika",
+          "per_week": 2,
+          "max_per_day": 2
+        },
+        {
+          "class": "I-d2",
+          "subject": "Informatika",
+          "per_week": 2,
+          "max_per_day": 2
+        },
+        {
+          "class": "I-p2",
+          "subject": "Informatika",
+          "per_week": 2,
+          "max_per_day": 2
+        },
+        {
+          "class": "IV-d1",
+          "subject": "Informatika",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d1",
+          "subject": "Informatika",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d2",
+          "subject": "Informatika",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p1",
+          "subject": "Informatika",
+          "per_week": 2,
+          "max_per_day": 2
+        }
+      ]
+    },
+    {
+      "name": "Tamara Milić",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "I-p1",
+          "subject": "Informatika",
+          "per_week": 2,
+          "max_per_day": 2
+        },
+        {
+          "class": "IV-p1",
+          "subject": "Informatika",
+          "per_week": 2,
+          "max_per_day": 2
+        },
+        {
+          "class": "II-d2",
+          "subject": "Informatika",
+          "per_week": 2,
+          "max_per_day": 2
+        },
+        {
+          "class": "IV-p2",
+          "subject": "Informatika",
+          "per_week": 2,
+          "max_per_day": 2
+        },
+        {
+          "class": "III-p1",
+          "subject": "Informatika",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p2",
+          "subject": "Informatika",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-d2",
+          "subject": "Informatika",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d1",
+          "subject": "Informatika",
+          "per_week": 2,
+          "max_per_day": 2
+        }
+      ]
+    },
+    {
+      "name": "Aleksandar Ilić",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "III-d1",
+          "subject": "Engleski",
+          "per_week": 3,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d1",
+          "subject": "Engleski",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-d2",
+          "subject": "Engleski",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-p2",
+          "subject": "Engleski",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-d1",
+          "subject": "Engleski",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p2",
+          "subject": "Engleski",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d2",
+          "subject": "Engleski",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-p1",
+          "subject": "Engleski",
+          "per_week": 2,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Dragan Savić",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "III-d2",
+          "subject": "Engleski",
+          "per_week": 3,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p1",
+          "subject": "Engleski",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p2",
+          "subject": "Engleski",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d1",
+          "subject": "Engleski",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p2",
+          "subject": "Engleski",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p1",
+          "subject": "Engleski",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p1",
+          "subject": "Engleski",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d2",
+          "subject": "Engleski",
+          "per_week": 2,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Vesna Radović",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "I-p1",
+          "subject": "Likovno",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p2",
+          "subject": "Likovno",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p1",
+          "subject": "Likovno",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p2",
+          "subject": "Likovno",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d1",
+          "subject": "Likovno",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d2",
+          "subject": "Likovno",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d1",
+          "subject": "Likovno",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d2",
+          "subject": "Likovno",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d1",
+          "subject": "Likovno",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d2",
+          "subject": "Likovno",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-d1",
+          "subject": "Likovno",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-d2",
+          "subject": "Likovno",
+          "per_week": 1,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Milan Kostić",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "I-d1",
+          "subject": "Nemački",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d2",
+          "subject": "Nemački",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p1",
+          "subject": "Nemački",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p2",
+          "subject": "Nemački",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d1",
+          "subject": "Nemački",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d2",
+          "subject": "Nemački",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d1",
+          "subject": "Nemački",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d2",
+          "subject": "Nemački",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-d1",
+          "subject": "Nemački",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-d2",
+          "subject": "Nemački",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p1",
+          "subject": "Nemački",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p2",
+          "subject": "Nemački",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p1",
+          "subject": "Nemački",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p2",
+          "subject": "Nemački",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-p1",
+          "subject": "Nemački",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-p2",
+          "subject": "Nemački",
+          "per_week": 1,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Sanja Mitrović",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "I-d1",
+          "subject": "Latinski",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d2",
+          "subject": "Latinski",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d1",
+          "subject": "Latinski",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d2",
+          "subject": "Latinski",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p1",
+          "subject": "Latinski",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p2",
+          "subject": "Latinski",
+          "per_week": 2,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Dragana Janković",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "IV-d1",
+          "subject": "Filozofija",
+          "per_week": 3,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-d2",
+          "subject": "Filozofija",
+          "per_week": 3,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p1",
+          "subject": "Filozofija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p2",
+          "subject": "Filozofija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-p1",
+          "subject": "Filozofija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-p2",
+          "subject": "Filozofija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d1",
+          "subject": "Filozofija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d2",
+          "subject": "Filozofija",
+          "per_week": 2,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Dejan Živković",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "III-d1",
+          "subject": "Istorija",
+          "per_week": 3,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-d1",
+          "subject": "Istorija",
+          "per_week": 3,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d1",
+          "subject": "Istorija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p2",
+          "subject": "Istorija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p2",
+          "subject": "Istorija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d2",
+          "subject": "Istorija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d2",
+          "subject": "Istorija",
+          "per_week": 2,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Goran Tomić",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "IV-d2",
+          "subject": "Istorija",
+          "per_week": 3,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d2",
+          "subject": "Istorija",
+          "per_week": 3,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p1",
+          "subject": "Istorija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p1",
+          "subject": "Istorija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p1",
+          "subject": "Istorija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d1",
+          "subject": "Istorija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p2",
+          "subject": "Istorija",
+          "per_week": 2,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Nataša Marković",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "II-d1",
+          "subject": "Psihologija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d2",
+          "subject": "Psihologija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p1",
+          "subject": "Psihologija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p2",
+          "subject": "Psihologija",
+          "per_week": 2,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Snežana Vasić",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "I-p1",
+          "subject": "Biologija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d2",
+          "subject": "Biologija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d1",
+          "subject": "Biologija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d1",
+          "subject": "Biologija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p1",
+          "subject": "Biologija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d2",
+          "subject": "Biologija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d1",
+          "subject": "Biologija",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-p1",
+          "subject": "Biologija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p2",
+          "subject": "Biologija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p2",
+          "subject": "Biologija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p2",
+          "subject": "Biologija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p1",
+          "subject": "Biologija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-p2",
+          "subject": "Biologija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d2",
+          "subject": "Biologija",
+          "per_week": 1,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Katarina Belić",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "I-p1",
+          "subject": "Geografija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d2",
+          "subject": "Geografija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p1",
+          "subject": "Geografija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p1",
+          "subject": "Geografija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p2",
+          "subject": "Geografija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d2",
+          "subject": "Geografija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d1",
+          "subject": "Geografija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d1",
+          "subject": "Geografija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d2",
+          "subject": "Geografija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p2",
+          "subject": "Geografija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d1",
+          "subject": "Geografija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p2",
+          "subject": "Geografija",
+          "per_week": 2,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Vladimir Đukić",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "IV-d1",
+          "subject": "Sociologija",
+          "per_week": 3,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-d2",
+          "subject": "Sociologija",
+          "per_week": 3,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-p1",
+          "subject": "Sociologija",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-p2",
+          "subject": "Sociologija",
+          "per_week": 2,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Kristina Živković",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "II-p1",
+          "subject": "Fizika",
+          "per_week": 3,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p2",
+          "subject": "Fizika",
+          "per_week": 3,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p1",
+          "subject": "Fizika",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p2",
+          "subject": "Fizika",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p1",
+          "subject": "Fizika",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d1",
+          "subject": "Fizika",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-d2",
+          "subject": "Fizika",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d2",
+          "subject": "Fizika",
+          "per_week": 1,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Jovana Savić",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "IV-p1",
+          "subject": "Fizika",
+          "per_week": 3,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-p2",
+          "subject": "Fizika",
+          "per_week": 3,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d2",
+          "subject": "Fizika",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p2",
+          "subject": "Fizika",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d1",
+          "subject": "Fizika",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-d1",
+          "subject": "Fizika",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d1",
+          "subject": "Fizika",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d2",
+          "subject": "Fizika",
+          "per_week": 1,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Mina Stojanović",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "II-p1",
+          "subject": "Hemija",
+          "per_week": 3,
+          "max_per_day": 2
+        },
+        {
+          "class": "III-p1",
+          "subject": "Hemija",
+          "per_week": 3,
+          "max_per_day": 2
+        },
+        {
+          "class": "I-p1",
+          "subject": "Hemija",
+          "per_week": 2,
+          "max_per_day": 2
+        },
+        {
+          "class": "I-p2",
+          "subject": "Hemija",
+          "per_week": 2,
+          "max_per_day": 2
+        },
+        {
+          "class": "IV-p1",
+          "subject": "Hemija",
+          "per_week": 2,
+          "max_per_day": 2
+        },
+        {
+          "class": "II-d1",
+          "subject": "Hemija",
+          "per_week": 1,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Sofija Anđelković",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "III-p2",
+          "subject": "Hemija",
+          "per_week": 3,
+          "max_per_day": 2
+        },
+        {
+          "class": "II-p2",
+          "subject": "Hemija",
+          "per_week": 3,
+          "max_per_day": 2
+        },
+        {
+          "class": "IV-p2",
+          "subject": "Hemija",
+          "per_week": 2,
+          "max_per_day": 2
+        },
+        {
+          "class": "I-d1",
+          "subject": "Hemija",
+          "per_week": 2,
+          "max_per_day": 2
+        },
+        {
+          "class": "I-d2",
+          "subject": "Hemija",
+          "per_week": 2,
+          "max_per_day": 2
+        },
+        {
+          "class": "II-d2",
+          "subject": "Hemija",
+          "per_week": 1,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Dušan Jelić",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "III-d1",
+          "subject": "Muzičko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d2",
+          "subject": "Muzičko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-d1",
+          "subject": "Muzičko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-d2",
+          "subject": "Muzičko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d1",
+          "subject": "Muzičko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d2",
+          "subject": "Muzičko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d1",
+          "subject": "Muzičko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d2",
+          "subject": "Muzičko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p1",
+          "subject": "Muzičko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p2",
+          "subject": "Muzičko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p1",
+          "subject": "Muzičko",
+          "per_week": 1,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p2",
+          "subject": "Muzičko",
+          "per_week": 1,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Maja Radosavljević",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "I-d1",
+          "subject": "Fizičko",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-d2",
+          "subject": "Fizičko",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d1",
+          "subject": "Fizičko",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d2",
+          "subject": "Fizičko",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p1",
+          "subject": "Fizičko",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-p2",
+          "subject": "Fizičko",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p1",
+          "subject": "Fizičko",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p2",
+          "subject": "Fizičko",
+          "per_week": 2,
+          "max_per_day": 1
+        }
+      ]
+    },
+    {
+      "name": "Petar Lukić",
+      "available_days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "assignments": [
+        {
+          "class": "IV-d1",
+          "subject": "Fizičko",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-d2",
+          "subject": "Fizičko",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-d1",
+          "subject": "Fizičko",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-d2",
+          "subject": "Fizičko",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "IV-p1",
+          "subject": "Fizičko",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "I-p2",
+          "subject": "Fizičko",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "III-p1",
+          "subject": "Fizičko",
+          "per_week": 2,
+          "max_per_day": 1
+        },
+        {
+          "class": "II-p2",
+          "subject": "Fizičko",
+          "per_week": 2,
+          "max_per_day": 1
+        }
+      ]
+    }
+  ],
+  "locked_lessons": []
+}

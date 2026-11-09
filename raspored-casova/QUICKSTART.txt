@@ -1,0 +1,21 @@
+RASPORED CASOVA - WINDOWS DEMO
+Autor: Jovan Markovic
+
+1. Raspakujte ceo ZIP. Ne pokrecite program iz samog ZIP-a.
+2. Otvorite RasporedCasova.exe.
+3. Izaberite karticu "JSON uvoz".
+4. Kliknite "Uvezi JSON fajl" i izaberite example.json pored programa.
+5. Kliknite "Napravi raspored".
+6. Pogledajte raspored po odeljenju, nastavniku ili za sva odeljenja.
+
+Java i JavaFX su ukljuceni. Nije potrebna dodatna instalacija Jave.
+Ne odvajajte EXE od foldera app i runtime.
+Folder tests sadrzi i vece primere; oni mogu zahtevati vise vremena.
+Interfejs je na srpskom jeziku. Ovo je obrazovni prototip.
+
+ENGLISH
+Extract the entire ZIP, open RasporedCasova.exe, select "JSON uvoz",
+use "Uvezi JSON fajl" to open the included example.json, then click
+"Napravi raspored". Java and JavaFX are bundled. Keep app and runtime
+beside the EXE. No account or internet connection is required.
+

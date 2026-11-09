@@ -1,0 +1,14 @@
+{
+  "comment": "Prazan šablon za osnovnu školu 1–4. Dodajte nastavnike i zaduženja.",
+  "school_type": "1-4",
+  "periods_per_day": 5,
+  "classes": ["1-1", "2-1", "3-1", "4-1"],
+  "teachers": [
+    {
+      "name": "Nastavnik 1",
+      "available_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "assignments": []
+    }
+  ],
+  "locked_lessons": []
+}

@@ -1,0 +1,14 @@
+{
+  "comment": "Prazan šablon za srednju školu. Dodajte nastavnike i zaduženja. Gotovi primeri gimnazije (društveni + prirodni smer): srednja_16_odeljenja.json i srednja_17_odeljenja.json.",
+  "school_type": "srednja",
+  "periods_per_day": 7,
+  "classes": ["I-1", "II-1", "III-1", "IV-1"],
+  "teachers": [
+    {
+      "name": "Nastavnik 1",
+      "available_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "assignments": []
+    }
+  ],
+  "locked_lessons": []
+}
